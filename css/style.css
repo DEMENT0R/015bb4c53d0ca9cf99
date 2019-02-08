@@ -1,0 +1,5 @@
+.test-bg {
+	background-image: url('../img/cars/electric-01-bg.jpg');
+	background-size: cover;
+	background-origin: center;
+}
